@@ -7,3 +7,6 @@ One Udemy course led to another, before I knew it I was 90% done with the Data S
 This repository therefor, not only serves as my data analyst portfolio, but also documents my data analytics journey. 
 
 Welcome to my data analysis portfolio :)
+
+Linkedin: https://www.linkedin.com/in/sisi-yao/
+Email: syao0144@gmail.com
