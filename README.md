@@ -31,6 +31,6 @@ Welcome to my data analysis portfolio :)
 ## Coding Challenges
 
 I love solving coding questions from big tech companies as a way to test my skills and I do not pick the easy ones ;)
-- [SQL Coding Challenges]
+- [SQL Coding Challenges](https://github.com/yao-sisi/SQL_Coding_Questions)
 
 
