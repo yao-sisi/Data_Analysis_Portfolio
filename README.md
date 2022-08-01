@@ -25,7 +25,7 @@ Welcome to my data analysis portfolio :)
 
 ## Certificates
 
-- [SQL-MySQL for Data Analytics and Business Intelligence (365 Careeers)](https://www.udemy.com/certificate/UC-a3fd742a-e77a-4a70-95fa-82833584476c/)
+- [SQL-MySQL for Data Analytics and Business Intelligence (365 Careers)](https://www.udemy.com/certificate/UC-a3fd742a-e77a-4a70-95fa-82833584476c/)
 - [Data Analyst with Python (DataCamp Career Track)](https://www.datacamp.com/statement-of-accomplishment/track/7d27ecf63467cd8bee14b37c68d4653097cc1c40)
 
 ## Projects
