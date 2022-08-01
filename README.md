@@ -1,4 +1,4 @@
-## Data Analytics Portfolio - Sisi Yao
+# Data Analytics Portfolio - Sisi Yao
 
 Hello there 👋🏼, I am Sisi.
 
@@ -27,6 +27,8 @@ Welcome to my data analysis portfolio :)
 - [Data Analyst with Python (DataCamp Career Track)](https://www.datacamp.com/statement-of-accomplishment/track/7d27ecf63467cd8bee14b37c68d4653097cc1c40)
 
 ## Projects
+
+
 
 ## Coding Challenges
 
