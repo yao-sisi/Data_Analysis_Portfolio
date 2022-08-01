@@ -51,7 +51,7 @@ Unicorn (companies) is a term commonly used in venture capital to describe priva
 ## Micro and Hobby Projects
 
 #
-<img align="left" width="200" height="100" src="https://www.pngall.com/wp-content/uploads/10/Super-Bowl-PNG-File6.png"> **[History of Superbowl Commercials with Tableau]([https://github.com/yao-sisi/maven_churn_analysis](https://github.com/yao-sisi/Superbowl))**
+<img align="left" width="200" height="100" src="https://www.pngall.com/wp-content/uploads/10/Super-Bowl-PNG-File6.png"> **[History of Superbowl Commercials with Tableau](https://github.com/yao-sisi/Superbowl)**
 
 As a non-American who follows marketing and ad-tech news regularly, every year around Super Bowl time, I start to see news about Super Bowl commercials and their astronomical price tags, and I have always had this question in my mind — why are advertisers so eager to spend millions to place an ad at Super Bowl, especially with the social media bloom and ever-changing advertising landscape? In this analysis, I try to find out 1). Are the price tags of Superbowl ads justified? 2). How can advertisers make the most out of their spend?
 
