@@ -8,6 +8,8 @@ One Udemy course led to another, before I knew it I was 90% done with the Data S
 
 This repository therefore, not only serves as my data analyst portfolio, but also documents my data analytics journey. 
 
+Currently, I am looking to fully transition into a data analyst role where I am able to grow and mature as a data professional and where I get to use my technical skills as well as business acumen to help businesses define relevant KPIs and make data-driven decisions. 
+
 Welcome to my data analysis portfolio :)
 
 - **Linkedin**: https://www.linkedin.com/in/sisi-yao/
