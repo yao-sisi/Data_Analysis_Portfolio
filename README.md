@@ -31,6 +31,11 @@ Welcome to my data analysis portfolio :)
 ## Projects
 
 #
+<img align="left" width="200" height="100" src="https://render.fineartamerica.com/images/rendered/default/wood-print/14/6.5/break/images/artworkimages/medium/1/verdun-corner-grocery-store-fruiterie-soleil-montreal-summer-scene-shopping-in-the-city-canadian-art-carole-spandau.jpg"> **[Marketing Campaign - Exploratory Data Analysis with Python](https://github.com/yao-sisi/Marketing_Campaign_EDA)**
+
+This is an Exploratory Data Analysis using Python on a marketing campaign dataset. The objective was to answer questions regarding the effectiveness of campaigns, the popularity of different types of products and customers' sales channel preferences. The analysis follows a six step approach: asking questions -> data cleaning -> univariate exploration -> bivariate exploration -> multivariate exploration -> conclusions/answering questions. Packages used include matplotlib, seaborn, pandas, numpy and missingno.  
+
+#
 <img align="left" width="200" height="100" src="https://coursereport-production.imgix.net/uploads/school/logo/1462/original/89024934_210455156988625_7686997690307051520_n.jpg?w=200&h=200"> **[Maven - Customer Churn Analysis with SQL and Tableau](https://github.com/yao-sisi/maven_churn_analysis)**
 
 The objective of this analysis is to identify high value customers/churn risks and improve customer retention. The analysis began with slicing and dicing the data in MySQL. Once I got more familiar with the data, I connected it to Tableau in order to visualize my findings and create a story.   
