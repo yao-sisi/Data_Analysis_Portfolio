@@ -18,7 +18,7 @@ Welcome to my data analysis portfolio :)
 
 
 ## Core Competencies
-- SQL (MySQL)
+- SQL
 - Python 
 - Tableau 
 - Excel/Google Sheets
